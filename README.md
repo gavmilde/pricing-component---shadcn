@@ -19,6 +19,6 @@ This pricing page should adapt automatically to the selected theme.
 - "Popular" tag for highlighting a specific plan (PRO Plan in the live preview)
 - "Exclusive" tag for highlighting a specific plan (EXCLUSIVE Plan in the dark theme live preview)
 
-## Example Image
+## Example Image With Link: https://pricing-page-shadcn.vercel.app
 
 ![image](https://github.com/gavmilde/pricing-component---shadcn/assets/95886258/475e7899-e0bd-4910-885e-ffc1a35c8069)
